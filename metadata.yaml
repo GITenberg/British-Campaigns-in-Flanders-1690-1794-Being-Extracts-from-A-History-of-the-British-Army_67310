@@ -1,5 +1,8 @@
 _repo: British-Campaigns-in-Flanders-1690-1794-Being-Extracts-from-A-History-of-the-British-Army_67310
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67310-h/images/cover.jpg
 creator:
   author:
     agent_name: Fortescue, J. W. (John William), Sir
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8884
     wikipedia: http://en.wikipedia.org/wiki/John_William_Fortescue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67310#British-Campaigns-in-Flanders-1690-1794-Being-Extracts-from-A-History-of-the-British-Army
 gutenberg_issued: '2022-02-03'
 identifiers:
   gutenberg: '67310'
